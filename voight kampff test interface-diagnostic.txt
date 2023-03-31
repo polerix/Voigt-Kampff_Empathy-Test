@@ -1,15 +1,15 @@
 
   ┌──────────────────────────────────────────────────────────────────────┐
-  │    [CO2 0000]  [O2 0000]  [IRIS 0000]  [PULSE 0000]  [TIME 0000]     │
   │                                                                      │
   │                                                                      │
   │                                                                      │
   │                                                                      │
   │                                                                      │
-  │                           Question space                             │
-  │                           Question space                             │
-  │                           Question space                             │
-  │                           Question space                             │                                                                     │
+  │                                                                      │
+  │                          DIAGNOSTIC RESULT                           │
+  │                                                                      │
+  │                                                                      │
+  │                                                                      │                                                                     │
   │                                                                      │
   │                                                                      │
   │                 ██████████████████████████████████                   │
@@ -18,6 +18,6 @@
   │                                                                      │
   │                                                                      │
   │                                                                      │
-  │                           [back]  [next]                             │
+  │                         [Approve]  [Reset]                           │
   └──────────────────────────────────────────────────────────────────────┘
   [M]ain Menu]                         Voight Kampff Empathy Test Vers 1.0

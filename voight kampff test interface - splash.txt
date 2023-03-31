@@ -16,8 +16,8 @@
   │                  P A V L O V   I N S T I T U T E                     │
   │                                                                      │
   │                                                                      │
-  │                                                                      │
   │                     Voigt-Kampff Empathy Test                        │
   │                                                                      │
   │                                                                      │
   └──────────────────────────────────────────────────────────────────────┘ 
+  [M]ain Menu]                         Voight Kampff Empathy Test Vers 1.0
