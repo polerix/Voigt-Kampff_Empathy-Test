@@ -1,6 +1,8 @@
 import time
 import random
 
+#Do you just want to generate random numbers?
+#Or have it hooked up to actual sensors eventually?
 
 def read_co2():
     return round(random.uniform(0.0, 1.0) * 1000, 2)
