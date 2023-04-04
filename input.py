@@ -3,6 +3,7 @@ import select
 import tty
 import termios
 
+#Seems overly complicated maybe.
 
 class NonBlockingConsole:
     def __enter__(self):
