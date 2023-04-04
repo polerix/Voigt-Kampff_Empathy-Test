@@ -1,3 +1,5 @@
 0000
 
 #What is the purpose of this file?
+#Is it a result file that's generated at the end of the test
+#Is it going to be a list of results that's going to be averaged over time?
