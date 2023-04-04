@@ -90,3 +90,6 @@ def main():
 
         # Process input
         if char_code == BUTTONS
+        
+        #TODO: What happened here?  ChatGPT just stop?
+        
