@@ -32,3 +32,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+    
+#This is ancient, but from my Acadia OS class, I think your need to terminater the threads at the end.  Maybe Python3 does that for you tho now.
