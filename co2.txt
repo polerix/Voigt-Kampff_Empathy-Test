@@ -3,3 +3,8 @@
 #What is the purpose of this file?
 #Is it a result file that's generated at the end of the test
 #Is it going to be a list of results that's going to be averaged over time?
+
+#Do you really want to check these data .txt files into your final git project?
+#If you don't, create a .gitignore file and change the extensions to *.dat or something other than *.txt.
+#Then add *.dat to your .gitignore, and you will never have them as part of your final check-in in your branch.
+#UNLESS you want to keep history over time after you delete your local workdir.
