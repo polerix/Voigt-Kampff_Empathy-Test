@@ -20,7 +20,7 @@ def get_input(prompt, choices):
         choice = input(prompt).strip()
         if choice.lower() in choices:
             return choice.lower()
-        print("Invalid choice, please try again.")
+        print("Invalid choice, please try again.")  #TODO: Depending on how friendly you want to be, the choices could be printed too.
 
 def format_time(seconds):
     """Convert seconds to a formatted time string."""
