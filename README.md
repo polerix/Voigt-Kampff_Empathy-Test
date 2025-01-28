@@ -17,3 +17,26 @@ I do not claim ownership of the Voight-Kampff name, *Blade Runner*, or any assoc
 
 This project is purely a personal work of art, created for self-education and non-commercial purposes.
 
+
+Installation instructions:
+
+
+Download the ZIP File:
+
+If you created the ZIP file on your computer, transfer it to your Raspberry Pi using scp or a USB drive.
+
+Extract and Run:
+
+On the Raspberry Pi, extract the ZIP file:
+unzip voight_kampff.zip
+
+Navigate to the project directory:
+cd voight_kampff
+
+Run the setup script:
+./setup_voight_kampff.sh
+
+Start the application:
+./main.py
+
+This process will give you a fully functional setup for the Voight-Kampff machine on your Raspberry Pi. Let me know if you need further assistance!
