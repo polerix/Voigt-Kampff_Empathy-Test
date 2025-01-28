@@ -1,27 +1,19 @@
-This is a python implementation of the Voight-Kampff Empathy Test from the Movie "Bladerunner" and to an extent the novel "Do androids dream of electric sheep".
+This Python script implements the Voight-Kampff Empathy Test from the movie *Blade Runner* and, to some extent, the novel *Do Androids Dream of Electric Sheep?*
 
-This is my iterpretation of the terminal screen used to ask the questions, matching sensor data, and provide a FICTIONAL diagnostic of REPLICANTS or HUMANS.
+It is my interpretation of the terminal interface used to present questions, correlate sensor data, and generate a fictional diagnostic to determine whether the subject is a REPLICANT or HUMAN.
 
-The Voigt-Kampff Empathy Test was a test designed to distinguish androids from humans by determining the subject's ability to empathize. The test was not perfect, as some humans with mental illnesses, such as schizophrenia, could conceivably fail.
-
-This python driven version is designed to run on 
-“normal” size terminal at 80 columns by 24 rows.
-
-The end product will be running on a raspberry pi, with CO2, O2, Altitude, sensors, as well as a webcam aimed at an eye.
-
-The interviewer will use arrow keys on a keyboard to navigate the menus.
+The Voight-Kampff Empathy Test was designed to distinguish androids from humans by measuring their capacity for empathy. However, the test had limitations; for instance, some humans with mental illnesses, such as schizophrenia, might fail the test.
 
 
-The Voigt Empathy Test was originally developed by the Pavlov Institute in the Soviet Union after some T-14 androids had been able to remain undetected for up to a year. In around 1989/2018, the Voigt scale was altered by Lurie Kampff, establishing the Voight-Kampff Altered Scale as the primary method of testing.[1]
+The final version will run on a Raspberry Pi and integrate various sensors, including CO2, O2, and altitude sensors, as well as a webcam aimed at the subject's eye. The interviewer will navigate the interface using arrow keys on a keyboard.
 
-Bounty hunters were all subjected to the test prior to administering it to suspected androids.
+The original Voigt Empathy Test was developed by the Pavlov Institute in the Soviet Union after some T-14 androids managed to remain undetected for up to a year. Around 1989/2018, Lurie Kampff modified the Voigt scale, creating the Voight-Kampff Altered Scale, which became the standard method of testing. 
 
-In early 1992/2021, bounty hunter Dave Holden performed the test on three Nexus-6 androids. The third, Max Polokov, shot Holden during testing and escaped. Rick Deckard took up Holden's assignment and performed the test on Rachael Rosen, Luba Luft, and Phil Resch.
+Bounty hunters themselves were required to pass the test before using it on suspected androids. In early 1992/2021, bounty hunter Dave Holden administered the test to three Nexus-6 androids. During the third test, android Max Polokov shot Holden and escaped. Rick Deckard then took over Holden's assignment, conducting tests on Rachael Rosen, Luba Luft, and Phil Resch.
 
+The Voight-Kampff test first appeared in *Do Androids Dream of Electric Sheep?* and was later featured in its film adaptation, *Blade Runner*. While the spelling was altered in the movie, the original spelling was retained in the 1997 video game and the continuation novels by K. W. Jeter.
 
+I do not claim ownership of the Voight-Kampff name, *Blade Runner*, or any associated intellectual property. 
 
-The test originally appears in Do Androids Dream of Electric Sheep?, then in the film adaptation, Blade Runner, where its spelling is slightly altered to Voight-Kampff. The original spelling is retained in the 1997 video game and the continuation novels written by K. W. Jeter.
+This project is purely a personal work of art, created for self-education and non-commercial purposes.
 
-I do not own the names Voight-Kampff, Bladerunner, or any of this intellectual property.
-
-This work is a work of art, for personal use, in a self educational function.
