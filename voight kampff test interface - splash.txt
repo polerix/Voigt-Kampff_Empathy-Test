@@ -20,4 +20,5 @@
   │                                                                      │
   │                                                                      │
   └──────────────────────────────────────────────────────────────────────┘ 
-  [M]ain Menu]                         Voight Kampff Empathy Test Vers 1.0
+
+  Tyrel Corporations                   Voight Kampff Empathy Test Vers 1.0
